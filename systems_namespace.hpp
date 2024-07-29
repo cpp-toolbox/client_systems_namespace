@@ -7,7 +7,7 @@
 namespace Systems {
 
 const std::string networking = "networking";
-const std::string reconciliation = "networking";
+const std::string reconciliation = "reconciliation";
 const std::string physics = "physics";
 const std::string asset_loading = "asset_loading";
 const std::string graphics = "graphics";
