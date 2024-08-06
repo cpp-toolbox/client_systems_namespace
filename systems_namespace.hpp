@@ -11,8 +11,9 @@ const std::string reconciliation = "reconciliation";
 const std::string physics = "physics";
 const std::string asset_loading = "asset_loading";
 const std::string graphics = "graphics";
+const std::string configuration = "configuration";
 
-const std::vector<std::string> all = {networking, reconciliation, physics, asset_loading, graphics};
+const std::vector<std::string> all = {networking, reconciliation, physics, asset_loading, graphics, configuration};
 
 } // namespace Systems
 
